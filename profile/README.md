@@ -1,6 +1,5 @@
-
 <p align="center">
-    <img src="./banner.png" />
+    <img src="https://github.com/magicpill-labs/.github/assets/10929547/516e86a0-6bb8-4273-b59e-9b2ed4b19dc2" />
     <br />
     <br />
     <i>
@@ -25,6 +24,6 @@ Magicpill Labs is a software technology research and development organization fo
 
 # Projects
 <p float="left">
-    <img src="./prj_flagship_stealth.png" width="32%"/>
-    <img src="./prj_pencil.png" width="32%" />
+    <img src="https://github.com/magicpill-labs/.github/assets/10929547/3f20f814-d113-46b3-8b03-fc6c56f7af6d" width="32%"/>
+    <img src="https://github.com/magicpill-labs/.github/assets/10929547/b6f2051c-a82f-463b-a551-d033459dfa38" width="32%" />
 </p>
