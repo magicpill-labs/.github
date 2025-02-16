@@ -1,29 +1,30 @@
 <p align="center">
-    <img src="https://github.com/magicpill-labs/.github/assets/10929547/516e86a0-6bb8-4273-b59e-9b2ed4b19dc2" />
+    <img src="./MPL_BANNER_1.png" />
     <br />
     <br />
-    <i>
-    🤖💊📈 
-    </i>
     <br>
     <i>
-    magical software solutions for mortal problems   
+    Magical Solutions for Mortal Problems   
     </i>
     <br />
 </p>
 <br>
-Magicpill Labs is a software technology research and development organization focused on using AI to build applications and solutions that address realworld use cases. We believe in pushing forward effective and innovative AI-powered solutions to solve complex problems across various industries to help society become less scarce and more abundant. Areas we specialize in:
 
-- AI Solution Consulting & Training
-- AI Agents & Prompt Engineering
-- Software Development & Data Engineering
+MagicPill Labs is a technology research and development organization focused on using AI to build applications and solutions that address real world use cases and problems. I started this project unofficially in 2023, with the goal of exploring how AI could be used to generate datasets from synthetic and realworld data. Overtime through developing my own tools and talking with my enterprise community, MagicPill Labs has shifted towards developing tools and research to increase insights on AI systems. 
+
+With increasingly more AI tools and applications being developed, there is an ever-growing need for software systems (agentic, automated, human or hybrid focused) to help devs and application builders keep their AI applications and systems healthy.
+
+_~Robby Boney, Feb 2024_
 
 
 <br>
-<br>
 
-# Projects
-<p float="left">
-    <img src="https://github.com/magicpill-labs/.github/assets/10929547/3f20f814-d113-46b3-8b03-fc6c56f7af6d" width="32%"/>
-    <img src="https://github.com/magicpill-labs/.github/assets/10929547/b6f2051c-a82f-463b-a551-d033459dfa38" width="32%" />
-</p>
+# Key Focuses
+
+- AI System Profiling
+- AI Evaluation and Testing
+- AI Performance Monitoring
+
+
+
+
